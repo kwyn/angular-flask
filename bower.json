@@ -1,0 +1,15 @@
+{
+  "name": "angular-flask",
+  "version": "0.0.0",
+  "authors": [
+    "Kwyn Meagher <Kwyn.Meagher@neustar.biz>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
