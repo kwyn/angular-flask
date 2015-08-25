@@ -13,8 +13,12 @@
     "tests"
   ],
   "dependencies": {
+<<<<<<< HEAD
     "bootstrap": "3.3.5",
     "x2js": "1.1.7",
     "angular": "1.4.4"
+=======
+    "angular": "~1.4.4"
+>>>>>>> 2077d1e... Add basic hello world angular app
   }
 }

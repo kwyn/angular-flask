@@ -3,6 +3,7 @@
 ## Goal
 
 The purpose of this repository is to give people a starting point in which to play with the BART API.
+
 ## Getting Started
 
 ### Dependencies
@@ -28,7 +29,6 @@ Open [localhost:5000](http://localhost:5000) in your browser of choice
  - [Base Angular App (with bootstrap for easy styling)](https://github.com/HarleyKwyn/angular-flask/tree/base-app)
  - [BART API service](https://github.com/HarleyKwyn/angular-flask/tree/bart-service)
  - [BART API service bound to controller](https://github.com/HarleyKwyn/angular-flask/tree/bart-service-and-controller)
-
 
 ## Resources
 
