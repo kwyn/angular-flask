@@ -37,11 +37,12 @@ angular.module('myapp', [])
     .controller('HelloController', function($scope, BartAPI) {
         $scope.helloTo = {};
         $scope.helloTo.title = "Hackbright";
-        $scope.etas;
+        $scope.stations;
+
 
         BartAPI
         	.getETAs()
         	.then(function(data){
-        		$scope.etas = data;
+        		$scope.stations = data.root.station;
         	});
     });
